@@ -16,6 +16,7 @@ All members of team Sanger are required to add their names here
 4. Akurut Eva
 5. Olayemi Rotimi
 6. Ankita Kumari
+7. Lawrence Edemhanria
 
 
 # Software used
